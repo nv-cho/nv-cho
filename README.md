@@ -13,4 +13,6 @@ Also, i'm member of the Ethereum Developer Program run by Platzi and the Ethereu
 The technologies which i have experience are: Solidity, JavaScript, C, React, Next.js, CSS.
 But also i've been using librarys and technologies like: TailwindCSS, NextUI, Styled Components, WAGMI, Web3.js, Hardhat, Alchemy, IPFS, Firebase.
 
-My major interest right now it's to continue improving my skills to become a Web3 Fullstack and Blockchain Developer, and also include TypeScript to my technological stack. 
+My major interest right now it's to continue improving my skills to become a Web3 Fullstack and Blockchain Developer, and also include TypeScript to my technological stack.
+
+If you want to know more about me, or think we'll be a good match, you can see my web CV here: https://cv-web3.vercel.app/
