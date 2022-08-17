@@ -1,6 +1,6 @@
 ### Hello traveller, good to see you! 
 
-### Let me tell to you a little bit about me
+### Let me tell to you a little bit about me ☄️⚡
 
 Right now i'm working as a Frontend Developer at Valtech, and also i'm studying Electronic Engineering at UTN (Universidad Tecnologíca Nacional).
 
