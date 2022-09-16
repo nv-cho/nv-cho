@@ -4,11 +4,10 @@
 
 Right now i'm working as a Frontend Developer at Valtech, and also i'm studying Electronic Engineering at UTN (Universidad Tecnologíca Nacional).
 
-But the since 7 months ago i've been spending the most of my time reading and learning about blockchain-based technologies, ethereum, dApps, DeFi, etc.
+But since 6 months ago i've been spending the most of my time reading and learning about blockchain-based technologies, ethereum, dApps, DeFi, etc.
 I strongly believe in the power of this technology to build a better and fairer world, and to change the way we interact with internet.
 
-In this moment i've done projects following the #RoadToWeb3 run by Alchemy, also with my team won an Alchemy Hackathon with our NFT-gated voted system project.
-Also, i'm member of the Ethereum Developer Program run by Platzi and the Ethereum Foundation, in which we adquire and highly improve our skills on Web3 and Ethereum Development with fullstack projects and with theory content.
+At this moment i've won two hackathons one with a NFT gated voting system, and another with a dApp in which the goal is to bring a space for the community to consume and create good quality content about emerging technologies. I've also been selected (and already finished) the Ethereum Developer Program by Platzi and the Ethereum Foundation. Right now, my team and i are working in a dApp, in which we want to bring the community a place to connect and find multidisciplinary people to participe in hackathons, in addition to that, we are developing a based smart contract system to automate and handle the prizes (money and NFTs). 
 
 The technologies which i have experience are: Solidity, JavaScript, C, React, Next.js, CSS.
 But also i've been using librarys and technologies like: TailwindCSS, NextUI, Styled Components, WAGMI, Web3.js, Hardhat, Alchemy, IPFS, Firebase.
