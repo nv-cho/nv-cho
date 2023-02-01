@@ -1,17 +1,52 @@
-### Hello traveller, good to see you! 
+☄ Hello traveller, good to see you, let me tell to you about me 🌌
+---
 
-### Let me tell to you a little bit about me ☄️⚡
+⚡ Web3 Developer (React/Solidity) specialized in React with Next.js
 
-Right now i'm working as a Frontend Developer at Valtech, and also i'm studying Electronic Engineering at UTN (Universidad Tecnologíca Nacional).
+🪐 Currently working full-time as a Frontend Developer at Valtech, leading the frontend side in my current project
 
-But since 6 months ago i've been spending the most of my time reading and learning about blockchain-based technologies, ethereum, dApps, DeFi, etc.
-I strongly believe in the power of this technology to build a better and fairer world, and to change the way we interact with internet.
+🛰 Electronic Engineering student at UTN (Universidad Tecnologíca Nacional)
 
-At this moment i've won two hackathons one with a NFT gated voting system, and another with a dApp in which the goal is to bring a space for the community to consume and create good quality content about emerging technologies. I've also been selected (and already finished) the Ethereum Developer Program by Platzi and the Ethereum Foundation. Right now, my team and i are working in a dApp, in which we want to bring the community a place to connect and find multidisciplinary people to participe in hackathons, in addition to that, we are developing a based smart contract system to automate and handle the prizes (money and NFTs). 
+🌳 I'm really passionate about technology, science and nature. But I also believe in the potential of Ethereum and Blockchain technologies. My dream is to mix all of this things together to solve real world problems.
 
-The technologies which i have experience are: Solidity, JavaScript, C, React, Next.js, CSS.
-But also i've been using librarys and technologies like: TailwindCSS, NextUI, Styled Components, WAGMI, Web3.js, Hardhat, Alchemy, IPFS, Firebase.
 
-My major interest right now it's to continue improving my skills to become a Web3 Fullstack and Blockchain Developer, and also include TypeScript to my technological stack.
+🏅 Achievements
+---
 
-If you want to know more about me, or think we'll be a good match, you can see my web CV here: https://cv-web3.vercel.app/
+- 🦄 __Ethereum Foundation Scholar to Devcon VI__ (Q4 2022), selected as a potential high-impact ethereum contributor.
+
+- ☘ __Ethereum Developer Program__ (Q3 2022), I was one of the 200 members selected to be part of the first cohort, by Platzi and the Ethereum Foundation.
+
+- ✨ __Defy Education__ (Q2 2022), I received a schoolarship to study about Decentralized Finances in Defy Education.
+
+- 🥈 __Won Metamask and Polygon prizes on ETHBogota hackathon__ (October 2022), where we built __myIPFS__, a privacy solution for distribuited storages
+
+- 🥇 __1st place at Media Party Web3 hackathon__ (July 2022),  where we built Letther, a social dapp on lens protocol for journalists. 
+
+- 🥇 __1st place at Alchemy Web3 Online hackathon__ (May 2022), where we built NFT-gated governance & proof-of-participation.
+
+- 💻 __Participated on ETHOnline (September 2022)__ , where we built Looking for Group, a team formation and on-chain money distribution dapp.
+
+- 💻 __Special mention on Web3athon by HackerEarth (September 2022)__, where we built Wooy frontend, non-custodial stacking where you contribute to social iniciatives and win unique prizes.
+
+
+🔥  Currently working on
+---
+
+- 🌱 I love learning, so I'm always seeking for more knowledge or improving my skills, right now I'm currently doing personal projects to improve my __TypeScript__ skills.
+
+- 🧙‍♂️ Building https://www.valorantchallengers.lat/ __(freelance)__
+
+- 🦹‍♂️ Building https://overwatchwcamericasa.com/ __(freelance)__
+
+- ⚙ In my full-time work __I'm currently doing multiple refactors in core modules of a management app with million of users, replacing and optimizing legacy code__ with 4 years antiquity
+
+
+🎇 Tech stack
+---
+
+- 🔧 I've been mainly working with __JavaScript__ using __React__ in conjuntion  with __Next.js__, and CSS (pure and with TailwindCSS). But also I've written multiple smart contracts in Solidity.
+
+- 📗 I'd a lot of experience with __Redux__ and __Firebase__, also, I've done multiple projects using __Ethers.js__, __HardHat__, __Wagmi__, __Open Zepellin contracts__, and __Axios__
+
+- 🌿 I'm not a pro with __TypeScript__ yet, but I'm putting a lot of time and effort to become one and add it to my main stack.
