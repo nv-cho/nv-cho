@@ -55,7 +55,7 @@
 <table>
   <thead>
     <th>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=nv-cho&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true&custom_title=sleep, eat, code, repeat" style="max-width: 100%;">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=nv-cho&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" style="max-width: 100%;">
     </th>
     <th>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nv-cho&layout=compact&theme=buefy&hide_border=true" style="max-width: 100%;">
