@@ -62,5 +62,6 @@
     </th>
   </thead>
 </table>
+ 
 
-<img align="center" src="https://streak-stats.demolab.com/?user=nv-cho&hide_border=true" style="max-width: 100%;">
+<img align="center" src="https://streak-stats.demolab.com/?user=nv-cho&hide_border=true" style="max-width: 100%; width: 100%;">
