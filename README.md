@@ -63,7 +63,7 @@
   </thead>
 </table>
  
-<div style="display: flex; width: 100%; max-width: 100%; justify-content: center;">
+<div style="display: flex; width: 100%; max-width: 100%; justify-content: center; align-items: center;">
   <img align="center" src="https://streak-stats.demolab.com/?user=nv-cho&hide_border=true" style="max-width: 100%; width: 70%;">
 </div>
 
