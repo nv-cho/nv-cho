@@ -1,4 +1,4 @@
-☄ Hello traveller, good to see you, let me tell to you about me 🌌
+☄ Hello traveller, good to see you; Let me tell to you about me 🌌
 ---
 
 ⚡ Web3 Developer (React/Solidity) specialized in React with Next.js
