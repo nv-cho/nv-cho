@@ -61,9 +61,6 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nv-cho&layout=compact&theme=buefy&hide_border=true" style="max-width: 100%;">
     </th>
   </thead>
-  <tbody>
-    <th>
-      <img align="center" src="https://streak-stats.demolab.com/?user=nv-cho&hide_border=true" style="max-width: 100%;">
-    </th>
-  </tbody>
 </table>
+
+<img align="center" src="https://streak-stats.demolab.com/?user=nv-cho&hide_border=true" style="max-width: 100%;">
