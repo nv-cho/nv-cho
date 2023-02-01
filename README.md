@@ -64,6 +64,6 @@
 </table>
  
 <p align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=nv-cho&hide_border=true&fire=#8800ff&ring=#8800ff" style="max-width: 100%; width: 70%;">
+  <img align="center" src="https://streak-stats.demolab.com/?user=nv-cho&hide_border=true&fire=8800ff&ring=8800ff" style="max-width: 100%; width: 70%;">
 </p>
 
