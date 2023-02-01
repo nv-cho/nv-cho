@@ -53,7 +53,7 @@
 
 
 <br/>
-<p align="center">
+
 			<table>
 				<thead>
 					<th>
@@ -64,7 +64,7 @@
 					</th>
 				</thead>
 			</table>
-</p>
+
 
 <p align="center">
 	<img align="center" src="https://streak-stats.demolab.com/?user=nv-cho&hide_border=true&fire=8800ff&ring=8800ff&currStreakLabel=a240f7" style="max-width: 100%; width: 70%;">
