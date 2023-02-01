@@ -50,3 +50,11 @@
 - 📗 I have a lot of experience with __Redux__ and __Firebase__, and I've done multiple projects using __Ethers.js__, __HardHat__, __Wagmi__, __Open Zepellin contracts__, and __Axios__
 
 - 🌿 Even if I not an expert with __TypeScript__ yet, I'm putting a lot of time and effort to become one and add it to my main stack.
+
+<table>
+  <thead>
+    <th>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=nv-cho&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" style="max-width: 100%;">
+    </th>
+  </thead>
+</table>
