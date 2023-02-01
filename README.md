@@ -33,7 +33,7 @@
 🔥  Currently working on
 ---
 
-- 🌱 I love learning, so I'm always seeking for more knowledge or improving my skills, right now I'm currently doing personal projects to improve my __TypeScript__ skills.
+- 🌱 I love learning, so I'm always seeking for more knowledge and improving my skills, I'm currently working on personal projects to improve my __TypeScript__ skills.
 
 - 🧙‍♂️ Building https://www.valorantchallengers.lat/ __(freelance)__
 
@@ -45,8 +45,8 @@
 🎇 Tech stack
 ---
 
-- 🔧 I've been mainly working with __JavaScript__ using __React__ in conjuntion  with __Next.js__, and CSS (pure and with TailwindCSS). But also I've written multiple smart contracts in Solidity.
+- 🔧 I've been mainly working with __JavaScript__ using __React__ in conjuntion  with __Next.js__, and CSS (pure and with TailwindCSS). But I've also written multiple smart contracts in Solidity.
 
-- 📗 I'd a lot of experience with __Redux__ and __Firebase__, also, I've done multiple projects using __Ethers.js__, __HardHat__, __Wagmi__, __Open Zepellin contracts__, and __Axios__
+- 📗 I have a lot of experience with __Redux__ and __Firebase__, and I've done multiple projects using __Ethers.js__, __HardHat__, __Wagmi__, __Open Zepellin contracts__, and __Axios__
 
-- 🌿 I'm not a pro with __TypeScript__ yet, but I'm putting a lot of time and effort to become one and add it to my main stack.
+- 🌿 Even if I not an expert with __TypeScript__ yet, I'm putting a lot of time and effort to become one and add it to my main stack.
