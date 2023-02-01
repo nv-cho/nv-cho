@@ -52,7 +52,7 @@
 - 🌿 Even if I not an expert with __TypeScript__ yet, I'm putting a lot of time and effort to become one and add it to my main stack.
 
 
-	<br/>
+<br/>
 <p align="center">
 			<table>
 				<thead>
@@ -60,7 +60,7 @@
 						<img align="center" src="https://github-readme-stats.vercel.app/api?username=nv-cho&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" style="max-width: 100%;">
 					</th>
 					<th>
-						<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nv-cho&theme=buefy&hide_border=true" style="max-width: 100%;">
+						<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nv-cho&theme=buefy&hide_border=true" style="width: 100%;max-width: 100%;">
 					</th>
 				</thead>
 			</table>
