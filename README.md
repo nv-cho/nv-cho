@@ -1,15 +1,15 @@
 
-<h1 align="center">
+<h2 align="center">
 ☄ Hello traveller, good to see you; Let me tell to you about me 🌌
-</h1>
+</h2>
 
-⚡ Web3 Developer (React/Solidity) specialized in React with Next.js
+- ⚡ Web3 Developer (React/Solidity) specialized in React with Next.js
 
-🪐 Currently working full-time as a Frontend Developer at Valtech, leading the frontend side in my current project
+- 🪐 Currently working full-time as a Frontend Developer at Valtech, leading the frontend side in my current project
 
-🛰 Electronic Engineering student at UTN (Universidad Tecnologíca Nacional)
+- 🛰 Electronic Engineering student at UTN (Universidad Tecnologíca Nacional)
 
-🌳 I'm really passionate about technology, science and nature. But I also believe in the potential of Ethereum and Blockchain technologies. My dream is to mix all of this things together to solve real world problems.
+- 🌳 I'm really passionate about technology, science and nature. But I also believe in the potential of Ethereum and Blockchain technologies. My dream is to mix all of this things together to solve real world problems.
 
 
 🏅 Achievements
