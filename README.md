@@ -1,5 +1,5 @@
 
-<p align"center">
+<p align="center">
 ☄ Hello traveller, good to see you; Let me tell to you about me 🌌
 </p>
 
