@@ -59,7 +59,6 @@
 <table>
 	<thead>
 		<th>
-
 			<img align="center" src="https://streak-stats.demolab.com/?user=nv-cho&hide_border=true&fire=8800ff&ring=8800ff&currStreakLabel=a240f7" style="max-width: 100%; width: 70%;">
 		</th>
 		<th>
