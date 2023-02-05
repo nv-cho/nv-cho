@@ -59,7 +59,7 @@
 <table>
 	<thead>
 		<th>
-			<img align="center" src="https://streak-stats.demolab.com/?user=nv-cho&hide_border=true&fire=8800ff&ring=8800ff&currStreakLabel=a240f7" style="max-width: 100%; width: 70%;">
+			<img align="center" src="https://streak-stats.demolab.com/?user=nv-cho&hide_border=true&fire=8800ff&ring=8800ff&currStreakLabel=a240f7" style="max-width: 100%; width: 100%;">
 		</th>
 		<th>
 			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nv-cho&theme=buefy&hide_border=true" style="width: 100%;max-width: 100%;">
