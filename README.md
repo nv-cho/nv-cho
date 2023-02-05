@@ -1,7 +1,7 @@
 
-<p align="center">
+<h1 align="center">
 ☄ Hello traveller, good to see you; Let me tell to you about me 🌌
-</p>
+</h1>
 
 ⚡ Web3 Developer (React/Solidity) specialized in React with Next.js
 
