@@ -25,12 +25,12 @@
 
 - 🥇 __1st place at Media Party Web3 hackathon__ (July 2022),  where we built Letther, a social dapp on lens protocol for journalists. 
 
-- 🥇 __1st place at Alchemy Web3 Online hackathon__ (May 2022), where we built NFT-gated governance & proof-of-participation.
+- 🥇 __1st place at Alchemy Web3 Online hackathon__ (May 2022), where we built NFT-gated governance & proof-of-participation. (https://team-dinamita-web3-voting.vercel.app/)
 
 - 💻 __Participated on ETHOnline (September 2022)__ , where we built Looking for Group, a team formation and on-chain money distribution dapp.
 (https://ethglobal.com/showcase/looking-for-group-enmkc)
 
-- 💻 __Special mention on Web3athon by HackerEarth (September 2022)__, where we built Wooy frontend, non-custodial stacking where you contribute to social iniciatives and win unique prizes.
+- 💻 __Special mention on Web3athon by HackerEarth (September 2022)__, where we built Wooy frontend, non-custodial stacking where you contribute to social iniciatives and win unique prizes. (https://wooy-repo.vercel.app/)
 
 
 🔥  Currently working on
