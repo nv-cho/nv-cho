@@ -21,7 +21,7 @@
 
 - ✨ __Defy Education__ (Q2 2022), I received a schoolarship to study about Decentralized Finances in Defy Education.
 
-- 🥈 __Won Metamask and Polygon prizes on ETHBogota hackathon__ (October 2022), where we built __myIPFS__, a privacy solution for distribuited storages 	(https://ethglobal.com/showcase/mypfs-8vrm0)
+- 🥈 __Won Metamask and Polygon prizes on ETHBogota hackathon__ (October 2022), where we built __myIPFS__, a privacy solution for distribuited storages. 	(https://ethglobal.com/showcase/mypfs-8vrm0)
 
 - 🥇 __1st place at Media Party Web3 hackathon__ (July 2022),  where we built Letther, a social dapp on lens protocol for journalists. 
 
