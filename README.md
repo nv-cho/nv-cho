@@ -5,7 +5,7 @@
 
 - ⚡ Web3 Developer (React/Solidity) specialized in React with Next.js
 
-- 🪐 Currently working full-time as a Frontend Developer at Valtech, leading the frontend side in my current project
+- 🪐 Currently working full-time as a Web3 Fullstack Developer at Rather Labs
 
 - 🛰 Electronic Engineering student at UTN (Universidad Tecnologíca Nacional)
 
@@ -42,7 +42,7 @@
 
 - 🦹‍♂️ Building https://overwatchwcamericasa.com/ __(freelance)__
 
-- ⚙ In my full-time work __I'm currently doing multiple refactors in core modules of a management app with million of users, replacing and optimizing legacy code__ with 4 years antiquity
+- ⚙ In my full-time job, together with a very small team, we are working on the first curated crypto-art gallery and marketplace in Italy
 
 
 🎇 Tech stack
