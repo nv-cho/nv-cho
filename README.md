@@ -1,6 +1,6 @@
 
 <h2 align="center">
-☄ Hello traveller, good to see you; Let me tell to you about me 🌌
+☄ Hello traveller, good to see you 🌌
 </h2>
 
 - 🪐 Currently working full-time as a Web3 Fullstack Developer at Rather Labs
