@@ -1,5 +1,5 @@
 
-<h2 align="center">
+<h2 align="start">
 ☄ Hello traveller, good to see you 🌌
 </h2>
 
