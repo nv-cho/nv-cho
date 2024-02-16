@@ -3,13 +3,11 @@
 ☄ Hello traveller, good to see you; Let me tell to you about me 🌌
 </h2>
 
-- ⚡ Web3 Developer (React/Solidity) specialized in React with Next.js
-
 - 🪐 Currently working full-time as a Web3 Fullstack Developer at Rather Labs
 
 - 🛰 Electronic Engineering student at UTN (Universidad Tecnologíca Nacional)
 
-- 🌳 I'm really passionate about technology, science and nature. But I also believe in the potential of Ethereum and Blockchain technologies. My dream is to mix all of this things together to solve real world problems.
+- 🌳 I'm really passionate about technology, science and nature. I believe in the power of technology to make this a better world.
 
 
 🏅 Achievements
@@ -31,28 +29,6 @@
 (https://ethglobal.com/showcase/looking-for-group-enmkc)
 
 - 💻 __Special mention on Web3athon by HackerEarth (September 2022)__, where we built Wooy frontend, non-custodial stacking where you contribute to social iniciatives and win unique prizes. (https://wooy-repo.vercel.app/)
-
-
-🔥  Currently working on
----
-
-- 🌱 I love learning, so I'm always seeking for more knowledge and improving my skills, I'm currently working on personal projects to improve my __TypeScript__ skills.
-
-- 🧙‍♂️ Building https://www.valorantchallengers.lat/ __(freelance)__
-
-- 🦹‍♂️ Building https://overwatchwcamericasa.com/ __(freelance)__
-
-- ⚙ In my full-time job, together with a very small team, we are working on the first curated crypto-art gallery and marketplace in Italy
-
-
-🎇 Tech stack
----
-
-- 🔧 I've been mainly working with __JavaScript__ using __React__ in conjuntion  with __Next.js__, and CSS (pure and with TailwindCSS). But I've also written multiple smart contracts in Solidity.
-
-- 📗 I have a lot of experience with __Redux__ and __Firebase__, and I've done multiple projects using __Ethers.js__, __HardHat__, __Wagmi__, __Open Zepellin contracts__, and __Axios__
-
-- 🌿 Even if I not an expert with __TypeScript__ yet, I'm putting a lot of time and effort to become one and add it to my main stack.
 
 
 <br/>
