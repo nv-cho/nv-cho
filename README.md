@@ -29,18 +29,3 @@
 (https://ethglobal.com/showcase/looking-for-group-enmkc)
 
 - 💻 __Special mention on Web3athon by HackerEarth (September 2022)__, where we built Wooy frontend, non-custodial stacking where you contribute to social iniciatives and win unique prizes. (https://wooy-repo.vercel.app/)
-
-
-<br/>
-
-<table>
-	<thead>
-		<th>
-			<img align="center" src="https://streak-stats.demolab.com/?user=nv-cho&hide_border=true&fire=8800ff&ring=8800ff&currStreakLabel=a240f7" style="max-width: 100%; width: 100%;">
-		</th>
-		<th>
-			<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nv-cho&theme=buefy&hide_border=true" style="width: 100%;max-width: 100%;">
-		</th>
-	</thead>
-</table>
-
