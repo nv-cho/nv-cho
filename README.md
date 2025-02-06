@@ -1,4 +1,4 @@
-☄ Hello traveller, good to see you 🌌
+hello traveller, good to see you 🌌
 
 - 🪐 i code, every day
 
