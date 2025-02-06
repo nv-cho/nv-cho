@@ -1,9 +1,9 @@
 hello traveller, good to see you 🌌
 
-- 🪐 i code, every day
+- 🪐 i code, everyday
 
-- 🛰 electronics and hardware stuff
+- 🛰 i mess with electronics and hardware stuff
 
-- 🌳 passionate about technology, science and nature
+- 🌳 i'm passionate about technology, science and nature
 
 - 🦄 cool as fuck
