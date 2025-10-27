@@ -1,9 +1,11 @@
-hello traveller, good to see you 🌌
+la receta dice:
 
-- 🪐 i code, everyday
+- 1 cucharada de intención
+- 3 cucharadas de acción
+- un poquito de suerte
 
-- 🛰 i mess with electronics and hardware stuff
+- mezclar intensamente y dejar hornear en un corazón fiero
+- colocar en el molde y a gusto, sazonar con buenos deseos
+- dejar reposar durante una vuelta del sol al cielo
 
-- 🌳 i'm passionate about technology, science and nature
-
-- 🦄 cool as fuck
+este plato se llama _Cambio_
